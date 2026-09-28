@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/mapnote",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Map config/note key checks for twelve-factor services.",
+  "bin": {
+    "mapnote": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/mapnote.git"
+  },
+  "homepage": "https://theworker02.github.io/mapnote/",
+  "keywords": [
+    "map",
+    "note",
+    "config",
+    "cli",
+    "toolkit"
+  ]
+}
