@@ -24,6 +24,8 @@
     "note",
     "config",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
